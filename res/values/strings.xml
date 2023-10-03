@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TpNote21</string>
+    <string name="channel_id">channel_id</string>
+    <string name="channel_name">Lecture music</string>
+    <string name="channel_description">Channel Description</string>
+
+</resources>
